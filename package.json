@@ -6,8 +6,20 @@
   "scripts": {
     "test": "dn test"
   },
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "Jeason",
+    "email": "me@jeasonstudio.cn"
+  },
+  "homepage": "https://github.com/jeasonstudio/dn-middleware-webpack-dev-server",
+  "bugs": {
+    "url": "https://github.com/jeasonstudio/dn-middleware-webpack-dev-server/issues",
+    "email": "me@jeasonstudio.cn"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeasonstudio/dn-middleware-webpack-dev-server.git"
+  },
   "dependencies": {
     "webpack": "^3.11.0",
     "webpack-dev-server": "^2.11.1"
