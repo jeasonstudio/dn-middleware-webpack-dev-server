@@ -21,6 +21,6 @@
     "url": "https://github.com/jeasonstudio/dn-middleware-webpack-dev-server.git"
   },
   "dependencies": {
-    "webpack-dev-server": "^3.1.4"
+    "webpack-dev-server": "^2.11.0"
   }
 }
